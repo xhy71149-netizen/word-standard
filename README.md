@@ -53,5 +53,5 @@
    - 📄 **第 2 步【选择文档矩阵】**：拖曳或勾选你需要一并洗白、合并的所有乱格式标的物文件。
    - 🚀 **第 3 步【精细控制与合并】**：在下方勾选你需要的高级清理功能（标题/正文/表格/图文），点击绿色的执行按钮。
 3. **享受成果**：后台即刻多重清洗后，弹窗通知您取走新鲜出炉的标准融合版文档。
-https://github.com/xhy71149-netizen/word-standard/releases
+**https://github.com/xhy71149-netizen/word-standard/releases**
 ---
